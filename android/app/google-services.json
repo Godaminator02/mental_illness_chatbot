@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "948658567810",
+    "project_id": "flutter-authentication-8fa23",
+    "storage_bucket": "flutter-authentication-8fa23.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948658567810:android:908a49c4b32270f31c929b",
+        "android_client_info": {
+          "package_name": "me.orbitium.firebase_authentication"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTk999ZDqomULD4LD5q-gDlB__Jo8dqKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:948658567810:android:61f7ed5cf4ae922b1c929b",
+        "android_client_info": {
+          "package_name": "me.orbitium.firebase_authentication3"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDTk999ZDqomULD4LD5q-gDlB__Jo8dqKY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
